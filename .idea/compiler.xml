@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-BadRequestException.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-About_recursion.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Alternating_Fibonacci_numbers.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Find_a_substring.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-K-combination.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Number_of_decompositions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Obscure_method.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Operations_with_number_n.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Select_statement.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Recursion-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_expression-Days_of_the_week.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_expression-Making_it_compile.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_expression-Months_of_the_year.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_expression-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
