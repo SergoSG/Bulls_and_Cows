@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/209958/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 31 Mar 2022 18:56:19 UTC
+update_date: Tue, 10 May 2022 10:29:37 UTC
 stages:
 - id: 287
   step: 5429
@@ -25,11 +25,15 @@ stages:
   is_completed: true
 - id: 293
   step: 5435
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Units of information
     theory_id: 6865
+  - title: Computer programming
+    theory_id: 8739
+  - title: Paradigms
+    theory_id: 15860
   - title: Introduction to Java
     theory_id: 3500
   - title: Basic literals
@@ -54,25 +58,23 @@ topics:
     theory_id: 3565
   - title: Increment and decrement
     theory_id: 5008
-  - title: Characters
-    theory_id: 3514
   - title: Sizes and ranges
     theory_id: 3532
   - title: Type casting
     theory_id: 3510
+  - title: Characters
+    theory_id: 3514
   1:
   - title: Write, compile, and run
     theory_id: 3739
-  - title: Immutability
-    theory_id: 7929
   - title: Computer algorithms
     theory_id: 16547
+  - title: Immutability
+    theory_id: 7929
   - title: The big O notation
     theory_id: 16699
   - title: Data structures
     theory_id: 16927
-  - title: Computer programming
-    theory_id: 8739
   - title: Boolean and logical operations
     theory_id: 3516
   - title: Relational operators
@@ -97,8 +99,6 @@ topics:
     theory_id: 3489
   - title: Functional decomposition
     theory_id: 10570
-  - title: String
-    theory_id: 3523
   - title: Primitive and reference types
     theory_id: 5035
   - title: Array
@@ -107,6 +107,8 @@ topics:
     theory_id: 3594
   - title: Iterating over arrays
     theory_id: 3602
+  - title: String
+    theory_id: 3523
   - title: Errors in programs
     theory_id: 3536
   - title: What is an exception
@@ -119,6 +121,8 @@ topics:
     theory_id: 3621
   - title: Pseudocode
     theory_id: 15090
+  - title: Pseudocode basics
+    theory_id: 19510
   - title: Fixed-size array
     theory_id: 7255
   - title: Dynamic array

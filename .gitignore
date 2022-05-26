@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Recursion/Number of decompositions/out/
+/Topics/Recursion/Number of decompositions/out/production/classes/
+/Topics/Switch expression/Months of the year/out/
+/Topics/Switch expression/Months of the year/out/production/classes/

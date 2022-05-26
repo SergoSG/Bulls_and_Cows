@@ -1,12 +1,12 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: It calculates <b>b</b> raised to the <b>(a-1)-th</b> power.
 - text: It calculates <b>a</b> multiplied by <b>b</b>.
-- text: It calculates <b>b</b> multiplied by <b>(a-1)</b>.
-- text: It calculates <b>a</b> raised to the <b>b-th</b> power.
 - text: It calculates <b>b</b> multiplied by <b>a</b>.
+- text: It calculates <b>a</b> raised to the <b>b-th</b> power.
 - text: It calculates <b>b</b> raised to the <b>a-th</b> power.
+- text: It calculates <b>b</b> multiplied by <b>(a-1)</b>.
+- text: It calculates <b>b</b> raised to the <b>(a-1)-th</b> power.
 files:
 - name: src/Task.java
   visible: true

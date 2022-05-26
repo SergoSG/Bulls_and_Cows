@@ -2,10 +2,10 @@ type: choice
 is_multiple_choice: true
 options:
 - text: Recursive calls use the program stack.
-- text: A method cannot invoke itself recursively multiple times.
+- text: Recursive method is a method that calls itself directly or indirectly.
 - text: If a recursion doesn't have a base case it will be automatically stopped after
     100 recursive calls.
-- text: Recursive method is a method that calls itself directly or indirectly.
+- text: A method cannot invoke itself recursively multiple times.
 files:
 - name: src/Task.java
   visible: true

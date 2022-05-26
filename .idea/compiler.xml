@@ -9,11 +9,37 @@
       <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
       <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
       <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-compareTo.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Comparing_objects.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Implement_Comparable.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Implement_compareTo_method.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Implement_comparing_by_additional_fields.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Natural_ordering.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Rewrite_compareTo_method.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Rules.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Value_class.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Exception_handling-Theory.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-BadRequestException.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Checked_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-The_base_class.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-UncheckedException.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Accessing_fields.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Army.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Find_reference_types.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Immutability.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Null_or_not.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-What_is_my_age.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-What_is_the_value_of_a_field.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Recursion-About_recursion.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Recursion-Alternating_Fibonacci_numbers.main" target="11" />
       <module name="Bulls_and_Cows.Topics-Recursion-Find_a_substring.main" target="11" />

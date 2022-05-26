@@ -1,9 +1,9 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: 'Each recursive call creates a new stack frame in the program stack. '
 - text: 'Java provides the special keyword <b>recursive</b> to make a recursive call. '
 - text: A recursion without a base case for stopping cause the <b>StackOverflowError</b>.
+- text: 'Each recursive call creates a new stack frame in the program stack. '
 - text: Recursive method is a method that calls other methods repeatedly.
 files:
 - name: src/Task.java

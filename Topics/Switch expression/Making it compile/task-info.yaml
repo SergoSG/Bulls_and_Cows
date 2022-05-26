@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: The yield keyword is required
-- text: You can't use integers in a case statement
-- text: The maximum number of case statements allowed is 3
 - text: The input values are not exhaustive
+- text: The maximum number of case statements allowed is 3
+- text: You can't use integers in a case statement
+- text: The yield keyword is required
 files:
 - name: src/Task.java
   visible: true

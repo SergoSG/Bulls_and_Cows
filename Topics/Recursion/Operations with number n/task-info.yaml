@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: It returns <b>true</b> if <b>n</b> is a power of 3, otherwise - <b>false</b>.
-- text: It returns <b>true</b> if <b>n</b> consists of digits 1 and 3, otherwise -
-    <b>false</b>.
 - text: It returns <b>true</b> if <b>n</b> has at least one digit 3, otherwise - <b>false</b>.
 - text: 'It returns <b>true</b> if <b>n</b> is divided by 3, otherwise - <b>false</b>. '
+- text: It returns <b>true</b> if <b>n</b> consists of digits 1 and 3, otherwise -
+    <b>false</b>.
+- text: It returns <b>true</b> if <b>n</b> is a power of 3, otherwise - <b>false</b>.
 files:
 - name: src/Task.java
   visible: true
